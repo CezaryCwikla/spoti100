@@ -4,8 +4,8 @@ import pprint
 import spotipy
 from bs4 import BeautifulSoup
 
-CLIENT_ID = "08f41ebafc9549f9aabb30d4988a0539"
-SECRET = "e582be213a234b06a37d670531a50837"
+CLIENT_ID = ""
+SECRET = ""
 scopes = [
     "user-read-currently-playing",
     "user-read-recently-played",
